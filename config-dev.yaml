@@ -1,1 +1,2 @@
-
+config:
+  info: spring-cloud-config-mian-dev
